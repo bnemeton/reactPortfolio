@@ -1,0 +1,28 @@
+.nav {
+  background-color: palegoldenrod;
+  border: none;
+}
+
+a {
+  color: black !important;
+}
+
+.nav-item {
+  background-color: paleturquoise;
+  margin: 10px 10px 0px 10px;
+  border-radius: 10px 10px 0px 0px;
+}
+
+.nav-item:active {
+  background-color: palegoldenrod;
+}
+
+.portfolio {
+  background-color: rgb(183, 236, 183);
+  border: rgb(183, 236, 183);
+}
+
+.contact {
+  background-color: pink;
+  border: pink;
+}

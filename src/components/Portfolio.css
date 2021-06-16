@@ -1,0 +1,13 @@
+.portfolio {
+  background-color: rgb(183, 236, 183);
+  height: 100%;
+  justify-content: left;
+  align-items: center;
+  display: flex;
+}
+
+.card {
+  width: 33%;
+  padding: 10px;
+  margin: 2%;
+}

@@ -1,0 +1,17 @@
+.about {
+  background-color: paleturquoise;
+  height: 100%;
+  justify-content: left;
+  align-items: center;
+  display: flex;
+}
+
+.card {
+  padding: 10px;
+  margin: 2%;
+  height: 33%;
+}
+
+img {
+  width: 100%;
+}
