@@ -6,7 +6,8 @@
   display: flex;
 }
 
-.card {
+#about-card {
+  width: 50%;
   padding: 10px;
   margin: 2%;
   height: 33%;
@@ -14,4 +15,5 @@
 
 img {
   width: 100%;
+  height: 100%;
 }
