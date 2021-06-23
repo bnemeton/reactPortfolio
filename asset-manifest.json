@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/reactPortfolio/static/css/main.6da2d095.chunk.css",
+    "main.css": "/reactPortfolio/static/css/main.ac90994b.chunk.css",
     "main.js": "/reactPortfolio/static/js/main.78130f14.chunk.js",
     "main.js.map": "/reactPortfolio/static/js/main.78130f14.chunk.js.map",
     "runtime-main.js": "/reactPortfolio/static/js/runtime-main.65435c0e.js",
@@ -10,7 +10,7 @@
     "static/js/3.894167c3.chunk.js": "/reactPortfolio/static/js/3.894167c3.chunk.js",
     "static/js/3.894167c3.chunk.js.map": "/reactPortfolio/static/js/3.894167c3.chunk.js.map",
     "index.html": "/reactPortfolio/index.html",
-    "static/css/main.6da2d095.chunk.css.map": "/reactPortfolio/static/css/main.6da2d095.chunk.css.map",
+    "static/css/main.ac90994b.chunk.css.map": "/reactPortfolio/static/css/main.ac90994b.chunk.css.map",
     "static/js/2.d1cdd969.chunk.js.LICENSE.txt": "/reactPortfolio/static/js/2.d1cdd969.chunk.js.LICENSE.txt",
     "static/media/birthdaybash.c19f078f.png": "/reactPortfolio/static/media/birthdaybash.c19f078f.png",
     "static/media/momentous.106b476d.png": "/reactPortfolio/static/media/momentous.106b476d.png",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.65435c0e.js",
     "static/js/2.d1cdd969.chunk.js",
-    "static/css/main.6da2d095.chunk.css",
+    "static/css/main.ac90994b.chunk.css",
     "static/js/main.78130f14.chunk.js"
   ]
 }
