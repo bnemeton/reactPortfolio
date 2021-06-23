@@ -10,4 +10,4 @@ If you want to run this site locally, you can clone this repo, then navigate to 
 
 ## Deployed
 
-You can find the deployed page here: https://bnemeton.github.io/reactPortfolio/
+You can find the deployed page here: https://bnemeton.github.io/reactPortfolio/ . The deployed code differs slightly (mostly in the navigation links) to run properly on Github Pages.
